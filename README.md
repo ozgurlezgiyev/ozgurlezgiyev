@@ -1,4 +1,4 @@
-![](https://github.com/ozgurlezgiyev/Case-Studies/blob/main/image_processing20191213-6403-1j99nlm.gif)
+![](https://github.com/ozgurlezgiyev/Case-Studies/blob/main/readme.gif)
 
 ## 👋 Hi, I’m Ozgur Lezgiyev
 ## I'm a Data Science student, Data Analyst, Ex-Program Coordinator and Ex-Procurement and Purchasing Agent!
