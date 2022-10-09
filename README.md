@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my porfolio and creating more personal data science projects.
-- 🌱 I’m currently learning to master my Machine Learning and python skills.
+- 🌱 I’m currently learning to master my Machine Learning and Python skills.
 - 💞️ I’m looking to collaborate on any interesting Data Science projects.
 - 🤔 I’m looking for help with AWS and Power BI.
 - 📚 I have enjoyed reading science fiction books, especially Jules Verne's since I was a child.
