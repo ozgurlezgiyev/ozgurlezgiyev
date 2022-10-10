@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my porfolio and creating more personal data science projects.
 - 🌱 I’m currently learning to master my Machine Learning and Python skills.
 - 💞️ I’m looking to collaborate on any interesting Data Science projects.
-- 🤔 I’m looking for help with AWS and Power BI.
+- 🤔 I’m looking for help with MS Azure and Power BI.
 - 📚 I have enjoyed reading science fiction books, especially Jules Verne's since I was a child.
 - 👀 I’m interested in data science topics, sci-fi and economics.
 - 📫 You can reach me from: [LinkedIn](https://www.linkedin.com/in/ozgurlezgiyev/) or [Gmail](ozgurlezgiyev@gmail.com)
