@@ -30,7 +30,7 @@
 - [KNN with GridSearch Case Study](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/GridSearchKNN_Case_Study)
 - [Logistic Regression Advanced Case Study](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/Logistic%20Regression%20Advanced%20Case%20Study)
 - [RandomForest Covid Case Study](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/RandomForest%20Covid%20Case%20Study)
-
+- [School DBMS Project](https://github.com/ozgurlezgiyev/School-DBMS-Project)
 
 <!---
 ozgurlezgiyev/ozgurlezgiyev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
