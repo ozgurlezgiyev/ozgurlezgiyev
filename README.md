@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with MS Azure and Power BI.
 - 📚 I have enjoyed reading science fiction books, especially Jules Verne's since I was a child.
 - 👀 I’m interested in data science topics, sci-fi and economics.
-- 📫 You can reach me from: [LinkedIn](https://www.linkedin.com/in/ozgurlezgiyev/) or [Gmail](ozgurlezgiyev@gmail.com)
+- 📫 You can reach me from: [LinkedIn](https://www.linkedin.com/in/ozgurlezgiyev/) or [Gmail](mailto:ozgurlezgiyev@gmail.com)
 - 😄 Pronouns: He/Him.
 
 ## Here is some of my works:
