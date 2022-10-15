@@ -16,6 +16,7 @@
 ## Here is some of my works:
 - [House Price Prediction Capstone Project](https://github.com/ozgurlezgiyev/Capstone2)
 - [Big Mountaion Resort Guided Capstone Project](https://github.com/ozgurlezgiyev/GuidedCapstone)
+- [Cowboys & Cigrettes Time Series Case Study](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/Cowboys%26CigrettesCaseStudy)
 - [Automated Feature Engineering Mini Case Study](https://github.com/ozgurlezgiyev/Mini-Case-Studies/tree/main/Automated_Feature_Engineering)
 - [API mini project](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/API-mini-project)
 - [Bayesian Optimization Case Study](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/Bayesian%20Optimization%20Case%20Study)
