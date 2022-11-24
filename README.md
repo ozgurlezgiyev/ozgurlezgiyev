@@ -18,6 +18,7 @@
 - [Big Mountaion Resort Guided Capstone Project](https://github.com/ozgurlezgiyev/GuidedCapstone)
 - [Cowboys & Cigrettes Time Series Case Study](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/Cowboys%26CigrettesCaseStudy)
 - [Automated Feature Engineering Mini Case Study](https://github.com/ozgurlezgiyev/Mini-Case-Studies/tree/main/Automated_Feature_Engineering)
+- [UK Economics During Industrial Revolution](https://github.com/ozgurlezgiyev/UK_economics/blob/main/UK_economy/UK_economics.ipynb)
 - [API mini project](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/API-mini-project)
 - [Bayesian Optimization Case Study](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/Bayesian%20Optimization%20Case%20Study)
 - [Integrating Apps Case Study](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/Case%20Study%20-%20Integrating%20Apps)
