@@ -14,6 +14,7 @@
 - 😄 Pronouns: He/Him.
 
 ## Here is some of my works:
+- [Toxic Comment Classification Capstone Project](https://github.com/ozgurlezgiyev/Capstone3)
 - [House Price Prediction Capstone Project](https://github.com/ozgurlezgiyev/Capstone2)
 - [Big Mountaion Resort Guided Capstone Project](https://github.com/ozgurlezgiyev/GuidedCapstone)
 - [Cowboys & Cigrettes Time Series Case Study](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/Cowboys%26CigrettesCaseStudy)
