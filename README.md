@@ -13,7 +13,7 @@
 ## Here is some of my works:
 - [Toxic Comment Classification Capstone Project](https://github.com/ozgurlezgiyev/Capstone3)
 - [House Price Prediction Capstone Project](https://github.com/ozgurlezgiyev/Capstone2)
-- [Bitcoin Price Prediction using SVR]((https://github.com/ozgurlezgiyev/btcpriceprediction))
+- [Bitcoin Price Prediction using SVR](https://github.com/ozgurlezgiyev/btcpriceprediction)
 - [Big Mountaion Resort Guided Capstone Project](https://github.com/ozgurlezgiyev/GuidedCapstone)
 - [Cowboys & Cigrettes Time Series Case Study](https://github.com/ozgurlezgiyev/Case-Studies/tree/main/Cowboys%26CigrettesCaseStudy)
 - [Automated Feature Engineering Mini Case Study](https://github.com/ozgurlezgiyev/Mini-Case-Studies/tree/main/Automated_Feature_Engineering)
