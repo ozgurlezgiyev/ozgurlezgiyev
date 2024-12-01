@@ -1,17 +1,14 @@
 ![](https://github.com/ozgurlezgiyev/Case-Studies/blob/main/readme.gif)
 
 ## 👋 Hi, I’m Ozgur Lezgiyev
-## I'm a Data Science student, Data Analyst, Ex-Program Coordinator and Ex-Procurement and Purchasing Agent!
-
-
-- 🔭 I’m currently working on my porfolio and creating more personal data science projects.
-- 🌱 I’m currently learning to master my Machine Learning and Python skills.
-- 💞️ I’m looking to collaborate on any interesting Data Science projects.
-- 🤔 I’m looking for help with MS Azure and Power BI.
-- 📚 I have enjoyed reading science fiction books, especially Jules Verne's since I was a child.
-- 👀 I’m interested in data science topics, sci-fi and economics.
-- 📫 You can reach me from: [LinkedIn](https://www.linkedin.com/in/ozgurlezgiyev/) or [Gmail](mailto:ozgurlezgiyev@gmail.com)
-- 😄 Pronouns: He/Him.
+## Data science enthusiast focused on mastering machine learning and Python, with a passion for economics and science fiction.
+- 🔭 Currently working on a portfolio of data science projects and continuously expanding knowledge in the field.
+- 🌱 Focused on mastering machine learning techniques and enhancing Python skills.
+- 💞️ Open to collaborating on interesting data science projects.
+- 🤔 Seeking guidance on MS Azure and Power BI.
+- 📚 Passionate about science fiction, particularly the works of Jules Verne.
+- 👀 Interested in data science, economics, and exploring new advancements in these fields.
+- 📫 Reach me on LinkedIn or Gmail
 
 ## Here is some of my works:
 - [Toxic Comment Classification Capstone Project](https://github.com/ozgurlezgiyev/Capstone3)
